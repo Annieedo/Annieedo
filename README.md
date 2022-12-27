@@ -8,7 +8,7 @@ I'm a Software Engineer. I'm passionate about learning and sharing knowledge, do
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript,Python and cloud computing.
+- 🌱 I’m currently learning Python and cloud computing.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer,Cloud Engineer, Devops(Intern or Junior level).
 - 📫 You can contact me by emailing aedo.iyasere@gmail.com.
